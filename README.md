@@ -2,7 +2,9 @@
 # Property-ohsm-full-stack-project
 
 This project is a full-stack application built with React, Node.js, TypeScript, and AWS DynamoDB.
-I am very REsearch for create this project
+I am very Research for create this project
+
+Live Link https://property-ohsm.vercel.app/
 
 ## Table of Contents
 
