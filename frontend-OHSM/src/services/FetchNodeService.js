@@ -1,6 +1,6 @@
 import axios from "axios"
 
- var serverURL='http://localhost:5000'
+ var serverURL='https://ohsm-property-backend.onrender.com/'
 const getData=async(url)=>{
  try{
    var response=await axios.get(`${serverURL}/${url}`)
