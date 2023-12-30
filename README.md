@@ -6,6 +6,12 @@ I am very Research for create this project
 
 Live Link https://property-ohsm.vercel.app/
 
+I am creating this project mainly focous on backend I am creating all api 
+- Update
+- Fetch
+- Delate
+- single fetch
+
 ## Table of Contents
 
 - [Frontend](#frontend)
